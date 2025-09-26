@@ -5,7 +5,7 @@
 **Section**: ___  
 **Group Members**:  
 - Balcita, Vienn Rowen G.
-- Cu, Keisha Monica T.
+- Cu, Monica Keisha T.
 - Dimaunahan, Sean Kyle E.
 - Mortega, Jansen Sajeh S.
 - Punsalan, Emmanuel Gerald G.
