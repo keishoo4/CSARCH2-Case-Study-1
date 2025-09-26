@@ -1,14 +1,14 @@
-# CSARCH2-Case-Study-1[Ghub_pattern.md](https://github.com/user-attachments/files/22561000/Ghub_pattern.md)
+# CSARCH2-Case-Study-1
 # Custom Desktop PC Build – Group X
 
 **Course**: CSARCH2  
 **Section**: ___  
 **Group Members**:  
-- Name 1  
-- Name 2  
-- Name 3  
-- Name 4  
-- Name 5  
+- Balcita, Vienn Rowen G.
+- Cu, Keisha Monica T.
+- Dimaunahan, Sean Kyle E.
+- Mortega, Jansen Sajeh S.
+- Punsalan, Emmanuel Gerald G.
 
 ---
 
@@ -41,7 +41,7 @@ PCPartPicker Permalink: _________
 
 ## 3. Local Manila Build
 This build uses **locally available parts** from Manila vendors.
-Google spreadsheet link: _________  
+Google spreadsheet link: https://docs.google.com/spreadsheets/d/1B0Mb7ZIAxgtGxx8yers_K-cO6H4-w3690atQEI5Nn-A/edit?usp=sharing 
 
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
