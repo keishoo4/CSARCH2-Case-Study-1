@@ -18,45 +18,47 @@ Mention: target use case (e.g., general-purpose desktop, gaming, programming, da
 
 ---
 
-## 2. Draft Build (PCPartPicker)
-This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: _________
+### 2. Draft Build (PCPartPicker)
 
-### Summary Table 
-| Component       | Model | Price (USD/Php) | Notes |
-|-----------------|-------|-----------------|-------|
-| CPU             | ...   | ...             | ...   |
-| CPU Cooler      | ...   | ...             | ...   |
-| Motherboard     | ...   | ...             | ...   |
-| RAM             | ...   | ...             | ...   |
-| Storage 1       | ...   | ...             | ...   |
-| Storage 2       | ...   | ...             | ...   |
-| Graphics Card   | ...   | ...             | ...   |
-| Power Supply    | ...   | ...             | ...   |
-| Case            | ...   | ...             | ...   |
-| Case Fans       | ...   | ...             | ...   |
-| **Total**       |       | **XXX USD/Php**     |       |
+This build uses **PCPartPicker System Builder** for compatibility check.
+**PCPartPicker Permalink:** https://pcpartpicker.com/list/bBxPC8
+
+#### Summary Table
+| Component | Model | Price (USD) | Notes |
+| :--- | :--- | :---: | :--- |
+| **CPU** | Intel Core i9-14900K | ~$550 | High-end CPU for maximum performance. |
+| **CPU Cooler** | ID-Cooling SL360 | ~$160 | 360mm AIO required to cool the i9. |
+| **Motherboard** | Gigabyte Z790 EAGLE AX | ~$190 | Z790 chipset for overclocking support. |
+| **RAM** | T-Force Delta RGB 32GB (2x16GB) DDR5-6000 CL30 | ~$105 | Fast DDR5 RAM for productivity & gaming. |
+| **Storage 1** | Crucial P3 Plus 1TB M.2 NVMe SSD | ~$65 | Fast primary drive for OS and apps. |
+| **Storage 2** | --- | --- | Optional component. |
+| **Graphics Card** | Sapphire PULSE Radeon RX 7800 XT 16GB | ~$500 | Excellent 1440p gaming performance. |
+| **Power Supply** | Cooler Master MWE Gold 750 V2 750W | ~$95 | Sufficient wattage with high efficiency. |
+| **Case** | Montech AIR 903 MAX | ~$75 | High-airflow case with included fans. |
+| **Case Fans** | --- | --- | Case comes with 4 pre-installed fans. |
+| **Total** | | **~$1,740 USD** | *Prices are approximate and subject to change.* |
 
 ---
 
-## 3. Local Manila Build
-This build uses **locally available parts** from Manila vendors.
-Google spreadsheet link: https://docs.google.com/spreadsheets/d/1B0Mb7ZIAxgtGxx8yers_K-cO6H4-w3690atQEI5Nn-A/edit?usp=sharing 
+### 3. Local Manila Build
 
-### Local Build Table
-| Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
-|-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | ...   | [PC Express](link) | ...         | Socket LGA1700 compatible with B760M |
-| CPU Cooler      | ...   | [VillMan](link)    | ...         | Fits case clearance                  |
-| Motherboard     | ...   | [PC Express](link) | ...         | Supports DDR5 RAM                    |
-| RAM             | ...   | [PC Express](link) | ...         | DDR5-5200 CL40, 2x8GB                |
-| Storage 1 (SSD) | ...   | [PC Express](link) | ...         | NVMe M.2 slot supported              |
-| Storage 2 (HDD) | ...   | [PVillMan](link)   | ...         | SATA port supported                  |
-| GPU             | ...   | [VillMan](link)    | ...         | Requires 2×8-pin PCIe, PSU supports  |
-| PSU             | ...   | [PVillMan](link)   | ...         | 650W, 80+ Bronze                     |
-| Case            | ...   | [VillMan](link)    | ...         | ATX Mid-Tower                        |
-| Case Fans       | ...   | [VillMan](link)    | ...         | 120mm, 3-pin                         |
-| **Total**       |       |                    | **XXX Php** | Within budget                        |
+This build uses **locally available parts** from Manila vendors.
+**Google spreadsheet link:** https://docs.google.com/spreadsheets/d/1B0Mb7ZIAxgtGxx8yers_K-cO6H4-w3690atQEI5Nn-A/edit?usp=sharing
+
+#### Local Build Table
+| Component | Model | Vendor & Link | Price (Php) | Compatibility Notes |
+| :--- | :--- | :--- | :---: | :--- |
+| **CPU** | Intel Core i9-14900K | [DataBlitz](https://ecommerce.datablitz.com.ph/products/intel-core-i9-14900k-14th-gen-3-2ghz-24-core-lga-1700-processor-bx8071514900k) | ₱29,995 | Socket LGA1700 compatible with Z790 |
+| **CPU Cooler** | ID-Cooling SL360 LCD AIO | [DataBlitz](https://ecommerce.datablitz.com.ph/products/id-cooling-sl360-lcd-360mm-aio-liquid-cpu-cooler-black) | ₱7,495 | LGA1700 support, fits case clearance |
+| **Motherboard** | Gigabyte Z790 EAGLE AX | [DynaQuest PC](https://dynaquestpc.com/products/gigabyte-z790-eagle-ax-ddr5-lga-1700-motherboard) | ₱12,650 | Supports DDR5 RAM |
+| **RAM** | T-Force Delta RGB 32GB DDR5 | [DynaQuest PC](https://dynaquestpc.com/products/t-force-delta-rgb-32g-dual-black-ddr5-6000mt-s-desktop-memory-ff3d532g6000hc30dc01) | ₱7,055 | DDR5-6000 CL30, 2x16GB |
+| **Storage 1 (SSD)** | Crucial P3 Plus 1TB NVMe | [DataBlitz](https://ecommerce.datablitz.com.ph/products/crucial-p3-plus-1tb-pcie-m-2-2280-ssd-ct1000p3pssd8) | ₱3,450 | NVMe M.2 slot supported |
+| **Storage 2 (HDD)** | --- | --- | --- | --- |
+| **GPU** | Sapphire PULSE RX 7800 XT | [DataBlitz](https://ecommerce.datablitz.com.ph/products/sapphire-pulse-amd-radeon-rx-7800-xt-gaming-16gb-gddr6-dual-hdmi-dual-dp-lite-graphics-card) | ₱31,895 | Requires 2×8-pin PCIe, PSU supports |
+| **PSU** | Cooler Master MWE 750 Gold | [DataBlitz](https://ecommerce.datablitz.com.ph/products/cooler-master-mwe-gold-750w-v2-atx-3-1-full-modular-power-supply-black-mpe-7501-afaag-3eu2) | ₱5,795 | 750W, 80+ Gold |
+| **Case** | Montech AIR 903 MAX | [DynaQuest PC](https://dynaquestpc.com/products/montech-air-903-max-atx-tg-case-w-3x140mm-argb-1x120mm-pwm-fans) | ₱4,560 | ATX Mid-Tower |
+| **Case Fans** | --- | --- | --- | Case includes 4x fans |
+| **Total** | | | **₱102,895** | **Within budget** |
 
 ---
 
