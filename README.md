@@ -26,17 +26,17 @@ This build uses **PCPartPicker System Builder** for compatibility check.
 #### Summary Table
 | Component | Model | Price (USD) | Notes |
 | :--- | :--- | :---: | :--- |
-| **CPU** | Intel Core i9-14900K | ~$550 | High-end CPU for maximum performance. |
-| **CPU Cooler** | ID-Cooling SL360 | ~$160 | 360mm AIO required to cool the i9. |
-| **Motherboard** | Gigabyte Z790 EAGLE AX | ~$190 | Z790 chipset for overclocking support. |
-| **RAM** | T-Force Delta RGB 32GB (2x16GB) DDR5-6000 CL30 | ~$105 | Fast DDR5 RAM for productivity & gaming. |
-| **Storage 1** | Crucial P3 Plus 1TB M.2 NVMe SSD | ~$65 | Fast primary drive for OS and apps. |
+| **CPU** | Intel Core i9-14900K | $438.94 | High-end CPU for maximum performance. |
+| **CPU Cooler** | ID-Cooling SL360 | --- | 360mm AIO required to cool the i9. |
+| **Motherboard** | Gigabyte Z790 EAGLE AX | $169.99 | Z790 chipset for overclocking support. |
+| **RAM** | T-Force Delta RGB 32GB (2x16GB) DDR5-6000 CL30 | $99.99 | Fast DDR5 RAM for productivity & gaming. |
+| **Storage 1** | Crucial P3 Plus 1TB M.2 NVMe SSD | $61.95 | Fast primary drive for OS and apps. |
 | **Storage 2** | --- | --- | Optional component. |
-| **Graphics Card** | Sapphire PULSE Radeon RX 7800 XT 16GB | ~$500 | Excellent 1440p gaming performance. |
-| **Power Supply** | Cooler Master MWE Gold 750 V2 750W | ~$95 | Sufficient wattage with high efficiency. |
-| **Case** | Montech AIR 903 MAX | ~$75 | High-airflow case with included fans. |
+| **Graphics Card** | Sapphire PULSE Radeon RX 7800 XT 16GB | $795.64 | Excellent 1440p gaming performance. |
+| **Power Supply** | Cooler Master MWE Gold 750 V2 750W | $75.97 | Sufficient wattage with high efficiency. |
+| **Case** | Montech AIR 903 MAX | $74.99 | High-airflow case with included fans. |
 | **Case Fans** | --- | --- | Case comes with 4 pre-installed fans. |
-| **Total** | | **~$1,740 USD** | *Prices are approximate and subject to change.* |
+| **Total** | | **$1,722.47 USD** | *Prices are approximate and subject to change.* |
 
 ---
 
