@@ -2,7 +2,7 @@
 # Custom Desktop PC Build – Group X
 
 **Course**: CSARCH2  
-**Section**: ___  
+**Section**: S21  
 **Group Members**:  
 - Balcita, Vienn Rowen G.
 - Cu, Monica Keisha T.
