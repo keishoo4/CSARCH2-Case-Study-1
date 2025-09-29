@@ -64,19 +64,25 @@ This build uses **locally available parts** from Manila vendors.
 ---
 
 ## 4. Compatibility Justification
-For each part, explain compatibility and choices.  
-Example:  
-- **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board (LGA1700 socket, BIOS compatible).  
-- **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).  
-- **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.  
+- **CPU + Motherboard**: The Intel Core i9-14900K processor is fully compatible with the Gigabyte Z790 EAGLE ATX motherboard, as both utilize the LGA 1700 socket and support the Z790 chipset.
+- **RAM**: The 2 16GB T-Force Delta RGB RAM DDR5 is compatible with the DDR5 DIMM slots on the Gigabyte Z790 motherboard. The motherboard supports up to 256GB of total memory, 64GB max individually.
+- **Storage**: The 1TB Crucial P3 Plus M.2 NVMe SSD is compatible with the high-speed M.2 slots on the motherboard.
+- **GPU**: The Sapphire PULSE RX 7800 XT requires a 2 PCIe 8-pin connection, provided by the motherboard.
+- **CPU Cooler + Case**: The ID-Cooling SL360 360mm liquid cooler fits the dedicated mounting locations at the top of the Montech AIR 903 MAX case.
+- **PSU + Motherboard + GPU + Case**: The Cooler Master PSU, motherboard, and Sapphire PULSE RX 7800 XT can fully fit with the ATX Mid-Tower design of the Montech case.
+- **PSU + CPU + CPU Cooler + GPU**: The Cooler Master MWE PSU fully accommodates the total estimated wattage of the build (643W), given its 750W Capacity.
+- **Case Fans**: Perfect-fit into case since integrated build.
 
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000  
-- **Final Total**: ₱XX,000  
-- ✅ Within budget / ❌ Over budget  
-- Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
+- **Budget Limit**: ₱100,000 (~₱105,000)
+- **Final Total**: ₱102,895
+- ✅ **WITHIN BUDGET**
+    - Sticked with a single storage device (SSD)
+        - Relying on a single storage poses a risk of data loss in the event of drive failure, as there’s no secondary device for backup or redundancy.
+    - A 750W PSU was selected instead of a 650W unit to provide headroom above the estimated 643W power draw, ensuring better stability and future upgrade flexibility
+
 
 ---
 
