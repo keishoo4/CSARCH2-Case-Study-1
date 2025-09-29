@@ -13,10 +13,11 @@
 ---
 
 ## 1. Introduction
-This project build is a high-performance desktop PC to be used primarily for outstanding entry-level gaming. Specifically, high performance at 1440p, and solid performance at 4K even in the most demanding games. It has an Intel Core i9-14900K paired with the Sapphire Pulse Radeon RX 7800 XT 16GB. The build also includes 32 GB of DDR5 memory and a 1TB SSD for quick load times, smooth multitasking, and high resolutions for modern AAA game titles. 
+<div style="text-align: justify;">
+This project build is a high-performance desktop PC to be used primarily for outstanding entry-level gaming. Specifically, high performance at 1440p, and solid performance at 4K even in the most demanding games. It has an Intel Core i9-14900K paired with the Sapphire Pulse Radeon RX 7800 XT 16GB. The build also includes 32 GB of DDR5 memory and a 1TB SSD for quick load times, smooth multitasking, and high resolutions for modern AAA game titles. <br><br>
 
 This build prioritized premium performance with premium parts, while balancing cost-effectiveness via a budget set around Php 100,000 with 5% allowance for going beyond. This ensures excellent value while maintaining the power and scalability expected from a future-ready gaming system.
-
+</div>
 ---
 
 ### 2. Draft Build (PCPartPicker)
@@ -67,8 +68,9 @@ This build uses **locally available parts** from Manila vendors.
 - **CPU + Motherboard**: The Intel Core i9-14900K processor is fully compatible with the Gigabyte Z790 EAGLE ATX motherboard, as both utilize the LGA 1700 socket and support the Z790 chipset.
 - **RAM**: The 2 16GB T-Force Delta RGB RAM DDR5 is compatible with the DDR5 DIMM slots on the Gigabyte Z790 motherboard. The motherboard supports up to 256GB of total memory, 64GB max individually.
 - **Storage**: The 1TB Crucial P3 Plus M.2 NVMe SSD is compatible with the high-speed M.2 slots on the motherboard.
-- **GPU**: The Sapphire PULSE RX 7800 XT requires a 2 PCIe 8-pin connection, provided by the motherboard.
 - **CPU Cooler + Case**: The ID-Cooling SL360 360mm liquid cooler fits the dedicated mounting locations at the top of the Montech AIR 903 MAX case.
+- **GPU**: The Sapphire PULSE RX 7800 XT requires a 2 PCIe 8-pin connection, provided by the motherboard.
+- **GPU + PSU**: The minimum required wattage of the GPU (700W) is satisfied by the Cooler Master MWE PSU, given its 750W Capacity.
 - **PSU + Motherboard + GPU + Case**: The Cooler Master PSU, motherboard, and Sapphire PULSE RX 7800 XT can fully fit with the ATX Mid-Tower design of the Montech case.
 - **PSU + CPU + CPU Cooler + GPU**: The Cooler Master MWE PSU fully accommodates the total estimated wattage of the build (643W), given its 750W Capacity.
 - **Case Fans**: Perfect-fit into case since integrated build.
