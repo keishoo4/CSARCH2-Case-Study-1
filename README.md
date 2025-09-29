@@ -79,9 +79,9 @@ This build uses **locally available parts** from Manila vendors.
 - **Budget Limit**: ₱100,000 (~₱105,000)
 - **Final Total**: ₱102,895
 - ✅ **WITHIN BUDGET**
-    - Sticked with a single storage device (SSD)
+    - Sticked with a single storage device (SSD).
         - Relying on a single storage poses a risk of data loss in the event of drive failure, as there’s no secondary device for backup or redundancy.
-    - A 750W PSU was selected instead of a 650W unit to provide headroom above the estimated 643W power draw, ensuring better stability and future upgrade flexibility
+    - The 750W PSU is sufficient for the current build, providing ~100W headroom. However, a higher-capacity PSU (850W, for example) would give more flexibility for future upgrades.
 
 
 ---
