@@ -87,10 +87,15 @@ This build uses **locally available parts** from Manila vendors.
 ---
 
 ## 6. Conclusion & Learnings
-Reflections on:  
-- Price differences (international vs. Manila vendors)  
-- Challenges in finding stock or cheaper equivalents  
-- What the group learned about PC components and system design  
+<div style="text-align: justify;">
+&emsp;&emsp;&emsp;After comparing pricing between international and local (Manila) vendors’, it was learned that:<br>
+<p style="margin-left: 75px;">
+The items, namely CPU, CPU Cooler, Motherboard, RAM, Storage, PSU, and Case, were cheaper internationally with a ~22% ~15%, ~15%, ~2%, ~4%, ~10%, and 3% price difference respectively. However, the GPU was more expensive internationally, with a ~30% price difference with local sellers. This alone made the local build cheaper by ~₱5,000.<br></p>
+&emsp;&emsp;&emsp;Key items such as the CPU and GPU had big differences in markup. The Intel Core i9-14900K CPU was priced at $438.94 (~₱25,433) on PC Part Picker. However, it is being sold at ₱29,995 locally in the Philippines. Meanwhile, the Graphics Card was priced at $795.64 (~₱46, 163) but is being sold for only ₱31,895 locally. Upon doing research, the United States experienced a GPU shortage earlier this year 2025 (Hendri, 2025). Given the Graphics Card, the Radeon 7800XT being high in demand, prices were only bound to rise. Even today, prices are continuing to rise as consumers struggle to find good deals, even for second-hand models. This revealed that not all parts are more expensive in the Philippines because these prices fluctuate depending on supply and demand in the local market. Additionally, prices may also vary depending on where the item was bought from since different retailers may provide different pricing.<br><br>
+&emsp;&emsp;&emsp;Since the budget was ₱100,000 for an entry-level gaming PC, not much problems were found when locating reasonably-priced local equivalents of the PC parts. What was spent most time on was verifying the compatibility of the different PC parts with one another. A considerable amount of time was used on experimenting with different CPUs and motherboards to make sure they had the same socket type, chipset, and even BIOS compatibility. Next, it had to be confirmed whether the chosen motherboard supported DDR5 Memory and if the slots it had were enough. Lastly, the CPU cooler had to be verified if it could not only fit in the case, but if it was enough to prevent the whole PC setup from running hot especially with the high-end and high-performance CPU.<br><br>
+&emsp;&emsp;&emsp;Through this project, a deeper understanding was gained of PC components, system design, and how different parts models differed from one another. Moreover, the group became more knowledgeable about the different costs and what influences the value of various PC parts. The group learned how to make adjustments to guarantee component compatibility and how to manage the budget effectively while prioritizing high performance. 
+</div>
+
 
 ---
 ## 7. Video pitch
