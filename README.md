@@ -101,7 +101,7 @@ The items, namely CPU, CPU Cooler, Motherboard, RAM, Storage, PSU, and Case, wer
 
 ---
 ## 7. Video pitch
-- Your video link here  
+- https://youtu.be/1b_UCudICjM
 
 ## 8. References
 - Vendor links (PCX, VillMan, etc.)  
